@@ -30,3 +30,4 @@ https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked/download/352309
 ### 3/7/22
 
 - Removed End Remastered due to unavailability
+- Removed Alex's Delights due to unavailability
