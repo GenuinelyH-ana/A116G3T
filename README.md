@@ -31,3 +31,9 @@ https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked/download/352309
 
 - Removed End Remastered due to unavailability
 - Removed Alex's Delights due to unavailability
+
+### 4/7/22
+
+- Removed all Yung's mods due to their ability to be server-sided only
+- **Multiple World Resets**
+- **Whopping 10000ms+ lag problems**
