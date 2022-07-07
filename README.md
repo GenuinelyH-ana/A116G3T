@@ -37,3 +37,7 @@ https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked/download/352309
 - Removed all Yung's mods due to their ability to be server-sided only
 - **Multiple World Resets**
 - **Whopping 10000ms+ lag problems**
+
+### 7/7/22
+
+- Removed Distant Horizons which may have been causing problems for some players
