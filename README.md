@@ -41,4 +41,4 @@ https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked/download/352309
 ### 7/7/22
 
 - Removed Distant Horizons which may have been causing problems for some players
-- Added 3 new mods (view 772022)
+- Testing 4 new mods (view 772022)
