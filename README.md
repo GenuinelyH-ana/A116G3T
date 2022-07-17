@@ -42,3 +42,10 @@ https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked/download/352309
 
 - Removed Distant Horizons which may have been causing problems for some players
 - Testing 4 new mods (view 772022)
+
+### 17/7/22
+
+- Removed Corpse Complex from both server and client
+- Added SecurityCraft
+- Added Effortless Building
+- Added Admin Tools
