@@ -48,4 +48,7 @@ https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked/download/352309
 - Removed Corpse Complex from both server and client
 - Added SecurityCraft
 - Added Effortless Building
-- Added Admin Tools
+
+### 25/7/22
+
+- a few updates
